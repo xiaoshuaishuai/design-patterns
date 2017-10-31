@@ -1,4 +1,4 @@
-package com.xs.my.design.patterns.struceturetype.adapter.obj;
+package com.xs.my.design.patterns.struceturetype.adapter.obj_join;
 
 public class Customer {
 

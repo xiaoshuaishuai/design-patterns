@@ -1,4 +1,4 @@
-package com.xs.my.design.patterns.struceturetype.adapter.cls;
+package com.xs.my.design.patterns.struceturetype.adapter.cls_extend;
 /**
  * Adapter 适配器
  * 

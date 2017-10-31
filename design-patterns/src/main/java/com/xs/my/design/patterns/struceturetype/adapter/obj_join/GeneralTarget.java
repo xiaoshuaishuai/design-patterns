@@ -1,4 +1,4 @@
-package com.xs.my.design.patterns.struceturetype.adapter.obj;
+package com.xs.my.design.patterns.struceturetype.adapter.obj_join;
 //普通目标接口
 public class GeneralTarget implements Target{
 

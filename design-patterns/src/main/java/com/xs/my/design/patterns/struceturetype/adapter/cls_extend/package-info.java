@@ -4,4 +4,4 @@
  * 另外一种适配器模式是对象适配器，它不是使用多继承或继承再实现的方式，而是使用直接关联，或者称为委托的方式
  * 
  */
-package com.xs.my.design.patterns.struceturetype.adapter.cls;
+package com.xs.my.design.patterns.struceturetype.adapter.cls_extend;
